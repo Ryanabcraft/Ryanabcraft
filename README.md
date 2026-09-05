@@ -4,50 +4,50 @@
 
 ### `@Ryanabcraft`
 
-**Building ideas that matter** — from concept to shipped product
+**Transformando ideias em produtos reais** — da concepção ao lançamento
 
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Developer_Tools-4B0082?style=flat-square&logo=github&logoColor=white" alt="Developer Tools" />
-  <img src="https://img.shields.io/badge/UI_Systems-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="UI Systems" />
+  <img src="https://img.shields.io/badge/Ferramentas_Dev-4B0082?style=flat-square&logo=github&logoColor=white" alt="Ferramentas Dev" />
+  <img src="https://img.shields.io/badge/Sistemas_UI-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="Sistemas UI" />
 </p>
 
 ---
 
 </div>
 
-## 🎯 Who I Am
+## 🎯 Quem Sou
 
-I'm a **builder** obsessed with turning ideas into real, polished products. I don't just write code—I design systems. I architect interfaces. I iterate until it *feels* right.
+Sou um **construtor** obcecado em transformar ideias em produtos reais e polidos. Não apenas escrevo código—projeto sistemas. Arquiteto interfaces. Itero até que se sinta certo.
 
-My work spans **UI frameworks, developer tools, automation, and experiments** that push what's possible. Everything I build is built to last and improve over time.
+Meu trabalho abrange **frameworks de UI, ferramentas para desenvolvedores, automações e experimentos** que expandem o que é possível. Tudo que construo é feito para durar e melhorar com o tempo.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Idea+%E2%86%92+Prototype+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Rebuild" alt="Process" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Ideia+%E2%86%92+Protótipo+%E2%86%92+Quebra+%E2%86%92+Aprendo+%E2%86%92+Reconstruo" alt="Processo" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
 ### **Axiom UI Engine**
 <a href="https://github.com/Ryanabcraft/AxiomUI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryanabcraft&repo=AxiomUI&theme=radical&hide_border=true" alt="Axiom UI Engine" />
 </a>
 
-My flagship UI framework—a **Lua interface engine** built with the philosophy that UI libraries should feel designed, not assembled.
+Meu projeto principal—um **framework de interface em Lua** construído com a filosofia de que bibliotecas de UI devem parecer projetadas, não apenas montadas.
 
-**What makes it different:**
-- ✨ Modern window system with real product-quality UX
-- 🎨 Custom design system & visual consistency
-- ��� Reusable, organized component architecture
-- ⚡ Extensible foundation built to scale
-- 🎯 Navigation, dropdowns, sliders, keybinds, color pickers
+**O que a torna diferente:**
+- ✨ Sistema de janelas moderno com UX de qualidade profissional
+- 🎨 Sistema de design customizado & consistência visual
+- 🧩 Arquitetura de componentes reutilizáveis e organizada
+- ⚡ Fundação extensível construída para escalar
+- 🎯 Navegação, dropdowns, sliders, keybinds, color pickers
 
 <p align="center">
   <a href="https://github.com/Ryanabcraft/AxiomUI">
-    <img src="https://img.shields.io/badge/Explore_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Axiom UI" />
+    <img src="https://img.shields.io/badge/Explorar_Repositório-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver Axiom UI" />
   </a>
 </p>
 
@@ -58,27 +58,27 @@ My flagship UI framework—a **Lua interface engine** built with the philosophy 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryanabcraft&repo=DivineUI&theme=radical&hide_border=true" alt="DivineUI" />
 </a>
 
-An earlier chapter in my UI journey. This library was the **proving ground** for component APIs, theming systems, and the philosophy that eventually evolved into Axiom.
+Um capítulo anterior na minha jornada com UI. Esta biblioteca foi o **campo de testes** para APIs de componentes, sistemas de temas e filosofias que eventualmente evoluíram para Axiom.
 
-[Explore →](https://github.com/Ryanabcraft/DivineUI)
-
----
-
-## 📦 What I Build
-
-| Category | Focus |
-|----------|-------|
-| 🎨 **UI / UX** | Lua frameworks, design systems, components that feel intentional |
-| 🛠️ **Tools** | Developer utilities, APIs, systems that solve real problems |
-| 🤖 **Automation** | Bots, workflows, helpers that scale |
-| 🌐 **Web** | Apps, dashboards, interfaces that matter |
-| 📚 **Open Source** | Public projects I maintain and evolve |
+[Explorar →](https://github.com/Ryanabcraft/DivineUI)
 
 ---
 
-## 💻 Tech Stack
+## 📦 O Que Construo
 
-### Languages
+| Categoria | Foco |
+|-----------|------|
+| 🎨 **UI / UX** | Frameworks Lua, design systems, componentes intencionais |
+| 🛠️ **Ferramentas** | Utilitários para devs, APIs, sistemas que resolvem problemas reais |
+| 🤖 **Automação** | Bots, workflows, helpers que escalam |
+| 🌐 **Web** | Apps, dashboards, interfaces que importam |
+| 📚 **Open Source** | Projetos públicos que mantenho e evoluo |
+
+---
+
+## 💻 Stack de Tecnologia
+
+### Linguagens
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -86,7 +86,7 @@ An earlier chapter in my UI journey. This library was the **proving ground** for
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Platforms & Tools
+### Plataformas & Ferramentas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -96,22 +96,22 @@ An earlier chapter in my UI journey. This library was the **proving ground** for
 
 ---
 
-## 🔥 Currently Focused On
+## 🔥 Focado Agora Em
 
-### **Pushing Axiom UI Engine to Production**
+### **Levando Axiom UI Engine à Produção**
 
-I'm building Axiom into a **complete, polished, professional-grade UI framework** with:
-- Comprehensive component library
-- Advanced styling system
-- Performance optimization
-- Full documentation & examples
-- Real-world implementation patterns
+Estou construindo Axiom como um **framework de UI completo, polido e de qualidade profissional** com:
+- Biblioteca abrangente de componentes
+- Sistema de styling avançado
+- Otimização de performance
+- Documentação e exemplos completos
+- Padrões de implementação para o mundo real
 
-[Follow the journey →](https://github.com/Ryanabcraft/AxiomUI)
+[Acompanhe a jornada →](https://github.com/Ryanabcraft/AxiomUI)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Atividade GitHub
 
 <div align="center">
 
@@ -120,7 +120,7 @@ I'm building Axiom into a **complete, polished, professional-grade UI framework*
 </a>
 
 <a href="https://github.com/Ryanabcraft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanabcraft&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanabcraft&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Linguagens" />
 </a>
 
 <p>
@@ -131,25 +131,25 @@ I'm building Axiom into a **complete, polished, professional-grade UI framework*
 
 ---
 
-## 🎨 Philosophy
+## 🎨 Filosofia
 
-I believe in:
-- **Building with intention** — every decision shapes the end result
-- **Learning through creation** — theory matters less than understanding
-- **Shipping iteratively** — perfect is the enemy of done
-- **Creating lasting systems** — code should outlive the project
-- **Using tools effectively** — AI helps me move faster, not think slower
+Acredito em:
+- **Construir com intenção** — cada decisão molda o resultado final
+- **Aprender através da criação** — teoria importa menos que compreensão
+- **Lançar iterativamente** — perfeito é inimigo do feito
+- **Criar sistemas duradouros** — código deve outlive o projeto
+- **Usar ferramentas efetivamente** — IA me ajuda a ser mais rápido, não mais lento
 
-> *"The best product is one that feels designed, not just assembled."*
+> *"O melhor produto é aquele que parece projetado, não apenas montado."*
 
 ---
 
-## 🔗 Find Me
+## 🔗 Me Encontre
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github.com/Ryanabcraft-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanabcraft)
-[![Repository](https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanabcraft?tab=repositories)
+[![Repositórios](https://img.shields.io/badge/Projetos-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanabcraft?tab=repositories)
 
 </div>
 
@@ -157,7 +157,7 @@ I believe in:
 
 <div align="center">
 
-### **Still building. Always experimenting.**
+### **Ainda construindo. Sempre experimentando.**
 
 `github.com/Ryanabcraft`
 
