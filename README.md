@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Ryan
@@ -188,4 +187,3 @@ Get the idea out of my head, make it real, find what doesn't work, improve the a
 `github.com/Ryanabcraft`
 
 </div>
-```
