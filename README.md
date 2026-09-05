@@ -113,17 +113,11 @@ Estou construindo Axiom como um **framework de UI completo, polido e de qualidad
 
 <div align="center">
 
-<a href="https://github.com/Ryanabcraft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanabcraft&show_icons=true&theme=radical&hide_border=true&rank_icon=github&card_width=500" alt="Stats" />
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=Ryanabcraft&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 
-<a href="https://github.com/Ryanabcraft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanabcraft&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Linguagens" />
-</a>
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanabcraft&layout=compact&theme=radical&hide_border=true)
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=Ryanabcraft&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ryanabcraft&theme=radical&hide_border=true)
 
 </div>
 
