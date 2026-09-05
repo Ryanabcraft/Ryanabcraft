@@ -24,7 +24,7 @@ Sou um **construtor** obcecado em transformar ideias em produtos reais e polidos
 Meu trabalho abrange **frameworks de UI, ferramentas para desenvolvedores, automações e experimentos** que expandem o que é possível. Tudo que construo é feito para durar e melhorar com o tempo.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Ideia+%E2%86%92+Protótipo+%E2%86%92+Quebra+%E2%86%92+Aprendo+%E2%86%92+Reconstruo" alt="Processo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Ideia+%E2%86%92+Protótipo+%E2%86%92+Quebra+%E2%86%92+Aprendo" alt="Typing Animation" />
 </p>
 
 ---
