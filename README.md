@@ -1,8 +1,3 @@
-<!--
-  Ryanabcraft / GitHub Profile
-  Built to feel like a personal build log — not a résumé template.
--->
-
 <table>
   <tr>
     <td width="180" align="center">
@@ -18,17 +13,20 @@
       <br />
       <sub>@Ryanabcraft</sub>
     </td>
+
     <td valign="middle">
       <h1>RYAN / BUILD LAB</h1>
-      <h3>Random idea → working project.</h3>
+      <h3>Ideias aleatórias têm uma tendência estranha de virar projetos.</h3>
+
       <p>
-        I build interfaces, tools, bots, APIs, automations and experiments —
-        usually because an idea sounded interesting enough to try.
+        Interfaces, ferramentas, bots, APIs, automações,
+        experimentos e qualquer coisa que pareça interessante o suficiente para construir.
       </p>
+
       <p>
-        <img src="https://img.shields.io/badge/FOCUS-BUILDING-8B5CF6?style=flat-square" alt="Focus: Building" />
-        <img src="https://img.shields.io/badge/MAIN-LUA-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-        <img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-2563EB?style=flat-square" alt="Experimenting" />
+        <img src="https://img.shields.io/badge/MODO-CONSTRUINDO-8B5CF6?style=flat-square" alt="Construindo" />
+        <img src="https://img.shields.io/badge/FOCO-EXPERIMENTAR-2563EB?style=flat-square" alt="Experimentando" />
+        <img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-18181B?style=flat-square" alt="Em desenvolvimento" />
       </p>
     </td>
   </tr>
@@ -36,443 +34,380 @@
 
 ---
 
-> **CURRENT BUILD:** `Axiom UI Engine`  
-> **DEFAULT MODE:** `prototype → break → understand → rebuild`  
-> **RULE:** if the idea is interesting, it's probably worth turning into a repo.
+> **ESTADO ATUAL:** `criando alguma coisa`
+>
+> **MÉTODO:** `ideia → protótipo → bug → correção → melhoria → projeto`
+>
+> **REGRA:** se parece interessante, provavelmente vale a pena tentar construir.
 
-<br />
+<br>
 
-## `01 / WHOAMI`
+## `01 / QUEM SOU`
 
-I'm **Ryan**.
+Sou o **Ryan**.
 
-I like turning ideas into things I can actually run, click, test, break and improve.
+Eu gosto muito mais de **construir coisas** do que ficar preso em uma única área.
 
-Most of my projects live somewhere between **software development**, **UI systems**, **automation**, **Discord bots**, **developer tooling**, **web experiments** and **Lua**.
+Um dia posso estar fazendo uma interface em Lua.
 
-I don't really care about forcing every project into the same category.
+No outro, um bot para Discord.
 
-If I want to understand something, I usually build something with it.
+Depois uma API, uma automação, um site, uma ferramenta ou algum experimento completamente diferente.
+
+A maioria dos meus projetos começa mais ou menos assim:
 
 ```text
-idea
- └── prototype
-      └── something breaks
-           └── figure out why
-                └── rebuild it cleaner
-                     └── add "one more feature"
-                          └── somehow it's a real project now
+"e se eu fizer isso?"
+        │
+        ▼
+   protótipo rápido
+        │
+        ▼
+    funcionou???
+        │
+     ┌──┴──┐
+     │     │
+    sim    não
+     │     │
+     │     └──► descobrir o motivo
+     │               │
+     └───────────────┘
+             │
+             ▼
+         melhorar
+             │
+             ▼
+      adicionar mais coisa
+             │
+             ▼
+   virou um projeto de verdade
 ````
 
-<br />
+Não tenho muito interesse em fingir que tudo nasce perfeitamente planejado.
 
-## `02 / FLAGSHIP BUILD`
+Eu prefiro começar, testar, quebrar algumas coisas no caminho e ir melhorando enquanto o projeto cresce.
 
-<table>
-  <tr>
-    <td>
-      <h2>AXIOM UI ENGINE</h2>
-      <p>
-        <strong>A Lua UI framework built to feel like a product.</strong>
-      </p>
-      <p>
-        Axiom is the project where I'm pushing UI development further:
-        not just creating buttons and toggles, but building a structured
-        interface system with its own visual language, reusable components
-        and room to grow.
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
 
-<p>
-  <a href="https://github.com/Ryanabcraft/AxiomUI">
-    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-Axiom_UI_Engine-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Axiom UI Engine Repository" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Ryanabcraft/AxiomUI/tree/main/Documentation">
-    <img src="https://img.shields.io/badge/Documentation-18181B?style=flat-square&logo=readthedocs&logoColor=white" alt="Axiom Documentation" />
-  </a>
-  <a href="https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/API.md">
-    <img src="https://img.shields.io/badge/API_Reference-18181B?style=flat-square&logo=lua&logoColor=white" alt="Axiom API" />
-  </a>
-  <a href="https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/DESIGN_SYSTEM.md">
-    <img src="https://img.shields.io/badge/Design_System-18181B?style=flat-square&logo=figma&logoColor=white" alt="Axiom Design System" />
-  </a>
-</p>
-
-### What I'm trying to build
+## `02 / O QUE EU GOSTO DE CONSTRUIR`
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
-**Not this**
+### `INTERFACES`
 
-```text
-UI Library
-├─ Button
-├─ Toggle
-├─ Slider
-└─ done.
-```
+Interfaces que sejam agradáveis de usar e não pareçam simplesmente um monte de componentes jogados na tela.
 
-A collection of controls isn't enough.
+`UI` `UX` `Design Systems` `Componentes`
 
 </td>
-    <td width="50%" valign="top">
 
-**More like this**
+<td width="33%" valign="top">
 
-```text
-Axiom
-├─ Window System
-├─ Navigation
-├─ Components
-├─ State
-├─ Layout
-├─ Themes
-├─ Design System
-└─ Developer Experience
-```
+### `FERRAMENTAS`
 
-Something that feels intentional.
+Coisas que tornam algum processo mais fácil, rápido ou simplesmente menos irritante.
+
+`APIs` `Automação` `Dev Tools` `Scripts`
+
+</td>
+
+<td width="33%" valign="top">
+
+### `EXPERIMENTOS`
+
+Projetos criados principalmente porque eu queria descobrir se uma ideia realmente funcionaria.
+
+`Protótipos` `Testes` `Open Source`
 
 </td>
   </tr>
 </table>
 
-### Component surface
+<br>
 
-`Windows` · `Tabs` · `Buttons` · `Toggles` · `Sliders` · `Dropdowns` · `Inputs` · `Keybinds` · `Color Pickers` · `Cards` · `Panels`
-
-### Axiom's direction
-
-* reusable components instead of duplicated UI code
-* organized architecture instead of one giant script
-* consistent visual behavior
-* responsive window layouts
-* a recognizable design system
-* easier APIs for building larger interfaces
-* UI that looks designed instead of assembled
-
-> **The goal:** open an interface built with Axiom and immediately feel that it belongs to the same system.
-
-<br />
-
-## `03 / BEFORE AXIOM`
-
-### DivineUI
-
-[![DivineUI](https://img.shields.io/badge/DivineUI-View_Project-A855F7?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ryanabcraft/DivineUI)
-
-**DivineUI** was one of my earlier Lua UI projects.
-
-It was an important part of figuring out how I wanted reusable interfaces to work — experimenting with windows, responsive behavior, controls, theming and component APIs.
-
-Axiom didn't appear from nowhere.
-
-```text
-DivineUI
-   │
-   ├── UI experiments
-   ├── things that worked
-   ├── things that definitely didn't
-   ├── better ideas
-   │
-   ▼
-Axiom UI Engine
-```
-
-I like keeping that evolution visible instead of pretending every project started perfect.
-
-<br />
-
-## `04 / REPOSITORY MAP`
+## `03 / MEU TIPO DE PROJETO`
 
 ```text
 Ryanabcraft/
 │
-├── ui-systems/
-│   ├── Axiom UI Engine       ← current flagship
-│   └── DivineUI              ← earlier UI project
+├── interfaces/
+│   ├── componentes
+│   ├── sistemas de UI
+│   └── experimentos visuais
 │
 ├── discord/
-│   └── bots + community tools
+│   ├── bots
+│   ├── ferramentas
+│   └── automações
 │
 ├── web/
-│   └── interfaces + small tools + APIs
+│   ├── páginas
+│   ├── dashboards
+│   ├── APIs
+│   └── pequenos sistemas
 │
-├── automation/
-│   └── scripts + workflow experiments
+├── tools/
+│   ├── utilitários
+│   ├── scripts
+│   └── coisas que eu não queria fazer manualmente
 │
-├── dev-tools/
-│   └── things built because doing it manually got annoying
+├── linux/
+│   ├── testes
+│   ├── automação
+│   └── ambiente de desenvolvimento
 │
 └── experiments/
-    └── "what happens if I build this?"
+    └── "isso parece interessante, vou tentar"
 ```
 
-No fixed niche.
+Eu não tento encaixar tudo em uma única categoria.
 
-Just a lot of things I wanted to see exist.
+Se eu quiser entender alguma coisa melhor, provavelmente vou acabar construindo algo com ela.
 
-<br />
+<br>
 
-## `05 / TOOLBOX`
+## `04 / TOOLBOX`
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <code>Lua</code>
-      <code>JavaScript</code>
-      <code>HTML</code>
-      <code>CSS</code>
-      <code>Python</code>
-      <code>Shell</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Runtime</strong></td>
-    <td>
-      <code>Node.js</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Development</strong></td>
-    <td>
-      <code>Git</code>
-      <code>GitHub</code>
-      <code>VS Code</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Systems</strong></td>
-    <td>
-      <code>Linux</code>
-      <code>Debian</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Platforms</strong></td>
-    <td>
-      <code>Roblox</code>
-      <code>Discord</code>
-    </td>
-  </tr>
-</table>
+### Linguagens
 
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
 </p>
 
-<br />
+### Desenvolvimento
 
-## `06 / AI IN THE WORKFLOW`
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
-AI tools are part of how I develop.
+### Sistemas & plataformas
 
-Not as a replacement for having ideas, but as another tool for moving through them faster.
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" alt="Roblox" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+</p>
 
-```text
-prototype        → faster
-debugging        → more angles to investigate
-research         → less context switching
-refactoring      → easier experimentation
-new technology   → faster first contact
+<br>
+
+## `05 / COMO EU DESENVOLVO`
+
+<div align="center">
+
+### `IDEIA → CONSTRUIR → QUEBRAR → ENTENDER → REFAZER → MELHORAR → PUBLICAR`
+
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>01</strong>
+      <br><br>
+      <strong>COMEÇAR</strong>
+      <br><br>
+      <sub>Fazer a ideia existir antes de pensar demais.</sub>
+    </td>
+
+```
+<td align="center" width="25%">
+  <strong>02</strong>
+  <br><br>
+  <strong>TESTAR</strong>
+  <br><br>
+  <sub>Usar de verdade e descobrir onde tudo começa a quebrar.</sub>
+</td>
+
+<td align="center" width="25%">
+  <strong>03</strong>
+  <br><br>
+  <strong>ENTENDER</strong>
+  <br><br>
+  <sub>Descobrir por que alguma parte ficou ruim.</sub>
+</td>
+
+<td align="center" width="25%">
+  <strong>04</strong>
+  <br><br>
+  <strong>MELHORAR</strong>
+  <br><br>
+  <sub>Construir a próxima versão melhor que a anterior.</sub>
+</td>
 ```
 
-The useful part isn't asking AI to magically build everything.
-
-It's being able to test more ideas, iterate more often and spend less time stuck on repetitive work.
-
-<br />
-
-## `07 / CURRENTLY BUILDING`
-
-<table>
-  <tr>
-    <td width="130" align="center">
-      <strong>AXIOM</strong>
-      <br />
-      <sub>UI ENGINE</sub>
-    </td>
-    <td>
-      <strong>Current objective</strong>
-      <br /><br />
-      Turn Axiom into a more complete, organized and polished UI framework
-      with the structure, consistency and visual identity of a real product.
-      <br /><br />
-      <a href="https://github.com/Ryanabcraft/AxiomUI"><strong>→ Follow the build</strong></a>
-    </td>
   </tr>
 </table>
 
-<br />
+<br>
 
-## `08 / BUILD PHILOSOPHY`
+## `06 / IA NO MEU WORKFLOW`
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>01</strong><br />
-      <sub>START</sub><br /><br />
-      Build the idea before overthinking it.
-    </td>
-    <td align="center">
-      <strong>02</strong><br />
-      <sub>BREAK</sub><br /><br />
-      Find the limits by actually using it.
-    </td>
-    <td align="center">
-      <strong>03</strong><br />
-      <sub>UNDERSTAND</sub><br /><br />
-      Figure out why the bad parts are bad.
-    </td>
-    <td align="center">
-      <strong>04</strong><br />
-      <sub>REBUILD</sub><br /><br />
-      Make the next version cleaner.
-    </td>
-  </tr>
-</table>
+Eu uso ferramentas de inteligência artificial como parte do meu processo de desenvolvimento.
 
-<br />
-
-<div align="center">
-
-### `IDEA → BUILD → BREAK → DEBUG → REBUILD → POLISH → SHIP → REPEAT`
-
-<sub>The repository usually changes a lot between the first idea and the version I actually like.</sub>
-
-</div>
-
-<br />
-
-## `09 / GITHUB SIGNAL`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanabcraft&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanabcraft&theme=default"
-  />
-  <img
-    width="100%"
-    alt="Ryanabcraft GitHub activity"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanabcraft&theme=default"
-  />
-</picture>
-
-<br />
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryanabcraft&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryanabcraft&theme=default"
-  />
-  <img
-    width="49%"
-    alt="Ryanabcraft GitHub stats"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryanabcraft&theme=default"
-  />
-</picture>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanabcraft&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanabcraft&theme=default"
-  />
-  <img
-    width="49%"
-    alt="Ryanabcraft languages"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanabcraft&theme=default"
-  />
-</picture>
-
-</div>
-
-<br />
-
-## `10 / BUILD LOG`
-
-<details>
-  <summary><strong>What you'll probably find in my repositories</strong></summary>
-
-<br />
-
-* unfinished ideas that became finished projects
-* finished projects that I decided to rebuild anyway
-* UI experiments
-* Lua libraries
-* Discord tools
-* automation
-* APIs
-* web interfaces
-* developer tools
-* random experiments that looked interesting at 2 AM
-* projects that somehow became much larger than originally planned
-
-</details>
-
-<details>
-  <summary><strong>What I'm usually optimizing for</strong></summary>
-
-<br />
+Principalmente para acelerar coisas como:
 
 ```text
-Does it work?
-      ↓
-Is the code becoming easier to maintain?
-      ↓
-Does the interface feel good?
-      ↓
-Can the project grow without turning into chaos?
-      ↓
-Can I make the whole thing better one more time?
+PROTOTIPAGEM  ─────► testar ideias mais rápido
+
+DEBUGGING     ─────► investigar problemas por outros ângulos
+
+PESQUISA      ─────► entender tecnologias novas
+
+REFACTOR      ─────► experimentar arquiteturas diferentes
+
+AUTOMAÇÃO     ─────► reduzir trabalho repetitivo
+```
+
+Para mim, a parte interessante não é simplesmente pedir para uma IA fazer tudo.
+
+É conseguir testar **mais ideias**, comparar mais possibilidades e iterar mais rápido.
+
+<br>
+
+## `07 / O QUE VOCÊ PROVAVELMENTE VAI ENCONTRAR AQUI`
+
+<details>
+  <summary><strong>Abrir build log</strong></summary>
+
+<br>
+
+```text
+[✓] projetos que começaram como teste
+
+[✓] testes que viraram projetos
+
+[✓] ferramentas para desenvolvedores
+
+[✓] interfaces
+
+[✓] Lua
+
+[✓] bots
+
+[✓] automações
+
+[✓] APIs
+
+[✓] web
+
+[✓] Linux
+
+[✓] coisas refeitas porque eu não gostei da primeira versão
+
+[✓] projetos que ficaram muito maiores do que deveriam
+
+[✓] experimentos que provavelmente começaram de madrugada
 ```
 
 </details>
 
-<br />
+<br>
 
-## `11 / FIND ME`
+## `08 / COMO UM PROJETO MEU CRESCE`
 
-There's only one link here on purpose.
+```text
+       ┌────────────────┐
+       │     IDEIA      │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │   PROTÓTIPO    │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │    FUNCIONA    │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │ "SÓ MAIS UMA   │
+       │   FEATURE..."  │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │  REFATORAÇÃO   │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │    PROJETO     │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │ NOVA IDEIA DE  │
+       │    FEATURE     │
+       └───────┬────────┘
+               │
+               └─────────────► loop
+```
 
-[![GitHub — Ryanabcraft](https://img.shields.io/badge/GitHub-Ryanabcraft-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ryanabcraft)
+<br>
 
-<br />
+## `09 / GITHUB`
+
+<div align="center">
+
+<a href="https://github.com/Ryanabcraft">
+  <img
+    src="https://img.shields.io/badge/GITHUB-RYANABCRAFT-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Ryanabcraft"
+  />
+</a>
+
+</div>
+
+<br>
 
 ---
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>CRIAR</strong>
+      <br>
+      <sub>tirar a ideia da cabeça</sub>
+    </td>
+
+```
+<td width="33%" align="center">
+  <strong>EXPERIMENTAR</strong>
+  <br>
+  <sub>descobrir o que funciona</sub>
+</td>
+
+<td width="33%" align="center">
+  <strong>EVOLUIR</strong>
+  <br>
+  <sub>fazer melhor na próxima versão</sub>
+</td>
+```
+
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
 
-### `// still building`
+### `// ainda construindo`
 
-**No fixed niche. No fake title. Just projects.**
+**Sem título inventado. Sem nicho fixo. Só projetos.**
 
 <sub>Ryan · @Ryanabcraft</sub>
 
