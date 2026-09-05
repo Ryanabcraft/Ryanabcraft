@@ -24,7 +24,7 @@ Sou um **construtor** obcecado em transformar ideias em produtos reais e polidos
 Meu trabalho abrange **frameworks de UI, ferramentas para desenvolvedores, automações e experimentos** que expandem o que é possível. Tudo que construo é feito para durar e melhorar com o tempo.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Ideia+%E2%86%92+Protótipo+%E2%86%92+Quebra+%E2%86%92+Aprendo" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Ideia+%E2%86%92+Protótipo+%E2%86%92+Quebra+%E2%86%92+Aprendo" alt="[...]"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Um **framework de interface em Lua** construído com a filosofia de que bibliote
 
 <p align="center">
   <a href="https://github.com/Ryanabcraft/AxiomUI">
-    <img src="https://img.shields.io/badge/Explorar_Repositório-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver Axiom UI" />
+    <img src="https://img.shields.io/badge/Explorar_Reposit%C3%B3rio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver Axiom UI" />
   </a>
 </p>
 
@@ -76,14 +76,6 @@ Um capítulo anterior na minha jornada com UI. Esta biblioteca foi o **campo de 
 
 ## 💻 Stack de Tecnologia
 
-### Linguagens
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 ### Plataformas & Ferramentas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -106,20 +98,6 @@ Estou construindo Axiom como um **framework de UI completo, polido e de qualidad
 - Padrões de implementação para o mundo real
 
 [Acompanhe a jornada →](https://github.com/Ryanabcraft/AxiomUI)
-
----
-
-## 📊 Atividade GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ryanabcraft&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanabcraft&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ryanabcraft&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
