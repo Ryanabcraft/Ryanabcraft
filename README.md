@@ -32,11 +32,8 @@ Meu trabalho abrange **frameworks de UI, ferramentas para desenvolvedores, autom
 ## 🚀 Projetos em Destaque
 
 ### **Axiom UI Engine**
-<a href="https://github.com/Ryanabcraft/AxiomUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryanabcraft&repo=AxiomUI&theme=radical&hide_border=true" alt="Axiom UI Engine" />
-</a>
 
-Meu projeto principal—um **framework de interface em Lua** construído com a filosofia de que bibliotecas de UI devem parecer projetadas, não apenas montadas.
+Um **framework de interface em Lua** construído com a filosofia de que bibliotecas de UI devem parecer projetadas, não apenas montadas.
 
 **O que a torna diferente:**
 - ✨ Sistema de janelas moderno com UX de qualidade profissional
@@ -54,13 +51,14 @@ Meu projeto principal—um **framework de interface em Lua** construído com a f
 ---
 
 ### **DivineUI**
-<a href="https://github.com/Ryanabcraft/DivineUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryanabcraft&repo=DivineUI&theme=radical&hide_border=true" alt="DivineUI" />
-</a>
 
 Um capítulo anterior na minha jornada com UI. Esta biblioteca foi o **campo de testes** para APIs de componentes, sistemas de temas e filosofias que eventualmente evoluíram para Axiom.
 
-[Explorar →](https://github.com/Ryanabcraft/DivineUI)
+<p align="center">
+  <a href="https://github.com/Ryanabcraft/DivineUI">
+    <img src="https://img.shields.io/badge/Explorar-DivineUI-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver DivineUI" />
+  </a>
+</p>
 
 ---
 
