@@ -4,7 +4,7 @@
 
 ### Olá, eu sou o Ryan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Dev+tools+%26+agentes+de+IA;Automa%C3%A7%C3%A3o+%C2%B7+MCP+%C2%B7+integra%C3%A7%C3%B5es;Lua%2FLuau+%C2%B7+TypeScript+%C2%B7+Python" alt="Dev tools, agentes de IA, automação, MCP, integrações, Lua/Luau · TypeScript · Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Dev+tools+%26+agentes+de+IA;Automa%C3%A7%C3%A3o+%C2%B7+MCP+%C2%B7+integra%C3%A7%C3%B5es;TypeScript+%C2%B7+Python+%C2%B7+Go" alt="Dev tools, agentes de IA, automação, MCP, integrações, TypeScript · Python · Go" />
 
 [![GitHub](https://img.shields.io/badge/Ryanabcraft-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanabcraft)
 [![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-65E6A7?style=for-the-badge&logo=git&logoColor=090A10)](https://github.com/Ryanabcraft?tab=repositories)
@@ -15,8 +15,7 @@
 ## 💫 Sobre mim
 
 - 🧠 Explorando **agentes de IA** na prática: pontes entre modelos e ferramentas reais (`qoder-claude`, `human-code-mcp`, `zeroreal`).
-- 🧩 Também faço **UI e automação para Roblox** em Lua/Luau (`AxiomUI`, `PastaUI`, `afk-ryanab`).
-- 🛠️ Escrevo em **Lua/Luau, TypeScript, Python e Go**, com foco em UI, tooling e DevEx.
+- 🛠️ Escrevo em **TypeScript, Python e Go**, com foco em tooling, automação e DevEx.
 - ✍️ Gosto do lado chato e decisivo: instalação em uma linha, build reproduzível, API documentada, release publicada.
 - 🌎 Brasil.
 
@@ -31,13 +30,12 @@
 | **[deepseek-harness-pc](https://github.com/Ryanabcraft/deepseek-harness-pc)** <br>`Go` | App nativo para Windows do DeepSeek Harness: janela WebView2, ícone próprio e instalador de uma linha. |
 | **[opencode-for-celular](https://github.com/Ryanabcraft/opencode-for-celular)** <br>`Shell` | OpenCode rodando nativamente no Android/Termux (arm64), instalado com um comando. |
 | **[Discord_auto_quest](https://github.com/Ryanabcraft/Discord_auto_quest)** <br>`Python` | Bot open source que automatiza as quests do Discord. |
-| **[AxiomUI](https://github.com/Ryanabcraft/AxiomUI)** <br>`Lua` | Framework de UI para scripts Roblox (MIT): window manager, 8 componentes com estado, 247 ícones Lucide e config persistida. Um arquivo, 111 KB. |
 
 ## 🧰 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,ts,js,python,go,bash,nodejs,git,github,vscode,linux&theme=dark" alt="Lua, TypeScript, JavaScript, Python, Go, Bash, Node.js, Git, GitHub, VS Code, Linux" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,bash,nodejs,git,github,vscode,linux&theme=dark" alt="TypeScript, JavaScript, Python, Go, Bash, Node.js, Git, GitHub, VS Code, Linux" />
 
 </div>
 
