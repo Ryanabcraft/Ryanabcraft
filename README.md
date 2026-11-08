@@ -60,8 +60,10 @@ Framework de UI para scripts Roblox, distribuído como um único arquivo Luau ca
 
 <div align="center">
 
-<img height="170" alt="Sequência de contribuições" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanabcraft&hide_border=true&background=090A10&ring=7C3AED&fire=65E6A7&currStreakNum=E6E8F0&sideNums=E6E8F0&currStreakLabel=7C3AED&sideLabels=8B5CF6&dates=6B7280&stroke=2E1065&border=2E1065" />
+<img width="700" alt="Resumo do perfil: commits, PRs, issues e estrelas" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanabcraft&theme=midnight_purple" />
+
 <img height="170" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanabcraft&theme=midnight_purple" />
+<img height="170" alt="Commits por hora do dia" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryanabcraft&utcOffset=-3&theme=midnight_purple" />
 
 <br />
 
