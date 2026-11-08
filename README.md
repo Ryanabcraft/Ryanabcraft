@@ -1,23 +1,27 @@
 <div align="center">
 
-<img width="100%" alt="Ryanabcraft" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090A10,60:3B1177,100:7C3AED&text=Ryanabcraft&fontSize=56&fontColor=F4F4F8&fontAlignY=40&desc=dev%20tools%20%C2%B7%20AI%20agents%20%C2%B7%20Roblox%20UI&descAlignY=59&descSize=15&animation=fadeIn" />
+<img src="https://github.com/Ryanabcraft.png?size=200" width="130" alt="Ryan" />
 
-**Ferramentas de desenvolvedor, integrações de IA e frameworks de UI.**
-<sub>Do protótipo ao release: código, documentação e builds publicados.</sub>
+### Olá, eu sou o Ryan 👋
 
-[![GitHub](https://img.shields.io/badge/Ryanabcraft-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ryanabcraft)
-[![Axiom UI](https://img.shields.io/badge/Axiom%20UI-7C3AED?style=flat-square&logo=roblox&logoColor=white)](https://axiom-ui-engine.vercel.app/)
-[![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-65E6A7?style=flat-square&logo=git&logoColor=090A10)](https://github.com/Ryanabcraft?tab=repositories)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Dev+tools+%26+agentes+de+IA;Axiom+UI+Engine+%E2%80%94+open+source;Lua%2FLuau+%C2%B7+TypeScript+%C2%B7+Python" alt="Dev tools, agentes de IA, Axiom UI Engine, Lua/Luau · TypeScript · Python" />
+
+[![GitHub](https://img.shields.io/badge/Ryanabcraft-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanabcraft)
+[![Axiom UI](https://img.shields.io/badge/Axiom%20UI-7C3AED?style=for-the-badge&logo=roblox&logoColor=white)](https://axiom-ui-engine.vercel.app/)
+[![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-65E6A7?style=for-the-badge&logo=git&logoColor=090A10)](https://github.com/Ryanabcraft?tab=repositories)
+![Visitas](https://komarev.com/ghpvc/?username=Ryanabcraft&color=7C3AED&style=for-the-badge&label=visitas)
 
 </div>
 
-## Sobre
+## 💫 Sobre mim
 
-Escrevo software que termina em algo que outras pessoas usam: uma API que se pluga em outra ferramenta, um app que abre no Windows, um bundle que roda dentro de um executor. A maior parte do trabalho está em **Lua/Luau, TypeScript e Python**, com foco em UI, tooling e pontes entre modelos de IA e o que já existe.
+- 🔭 Construindo o **[Axiom UI Engine](https://github.com/Ryanabcraft/AxiomUI)** — framework de UI para scripts Roblox, MIT, com documentação, releases e servidor MCP.
+- 🧠 Explorando **agentes de IA** na prática: pontes entre modelos e ferramentas reais (`qoder-claude`, `human-code-mcp`, `zeroreal`).
+- 🛠️ Escrevo em **Lua/Luau, TypeScript, Python e Go**, com foco em UI, tooling e DevEx.
+- ✍️ Gosto do lado chato e decisivo: instalação em uma linha, build reproduzível, API documentada, release publicada.
+- 🌎 Brasil.
 
-Gosto do lado chato e decisivo: instalação em uma linha, build reproduzível, documentação de API, release publicada. É isso que separa um experimento de um projeto.
-
-## Em destaque
+## 🚀 Em destaque
 
 ### [Axiom UI Engine](https://github.com/Ryanabcraft/AxiomUI) · `Lua` · MIT
 
@@ -32,7 +36,7 @@ Framework de UI para scripts Roblox, distribuído como um único arquivo Luau ca
 
 <sub>[Site](https://axiom-ui-engine.vercel.app/) · [API](https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/API.md) · [Ícones](https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/ICONS.md) · [Design system](https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/DESIGN_SYSTEM.md) · [Releases](https://github.com/Ryanabcraft/AxiomUI/releases)</sub>
 
-## Outros projetos
+## 📦 Outros projetos
 
 | Projeto | O que faz |
 | --- | --- |
@@ -44,20 +48,26 @@ Framework de UI para scripts Roblox, distribuído como um único arquivo Luau ca
 | **[opencode-for-celular](https://github.com/Ryanabcraft/opencode-for-celular)** <br>`Shell` | OpenCode rodando nativamente no Android/Termux (arm64), instalado com um comando. |
 | **[Discord_auto_quest](https://github.com/Ryanabcraft/Discord_auto_quest)** <br>`Python` | Bot open source que automatiza as quests do Discord. |
 
-## Stack
+## 🧰 Stack
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=090A10)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=090A10)
-![Roblox](https://img.shields.io/badge/Roblox%20Luau-000000?style=flat-square&logo=roblox&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,ts,js,python,go,bash,nodejs,git,github,vscode,linux&theme=dark" alt="Lua, TypeScript, JavaScript, Python, Go, Bash, Node.js, Git, GitHub, VS Code, Linux" />
+
+</div>
+
+## 📊 Números
+
+<div align="center">
+
+<img height="170" alt="Sequência de contribuições" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanabcraft&hide_border=true&background=090A10&ring=7C3AED&fire=65E6A7&currStreakNum=E6E8F0&sideNums=E6E8F0&currStreakLabel=7C3AED&sideLabels=8B5CF6&dates=6B7280&stroke=2E1065&border=2E1065" />
+<img height="170" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanabcraft&theme=midnight_purple" />
+
+<br />
+
+<img width="100%" alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/Ryanabcraft/Ryanabcraft/output/snake.svg" />
+
+</div>
 
 ---
 
@@ -65,6 +75,6 @@ Framework de UI para scripts Roblox, distribuído como um único arquivo Luau ca
 
 <sub><b>Construindo em público desde 2025.</b> · <a href="https://github.com/Ryanabcraft?tab=repositories">Todos os repositórios</a></sub>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,55:3B1177,100:090A10&section=footer" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,55:3B1177,100:090A10&section=footer" />
 
 </div>
