@@ -29,7 +29,6 @@
 | **[deepseek-web-proxy](https://github.com/Ryanabcraft/deepseek-web-proxy)** <br>`Python` | Proxy local compatível com a API da OpenAI para o DeepSeek Web, via ponte no navegador e userscript Tampermonkey. |
 | **[deepseek-harness-pc](https://github.com/Ryanabcraft/deepseek-harness-pc)** <br>`Go` | App nativo para Windows do DeepSeek Harness: janela WebView2, ícone próprio e instalador de uma linha. |
 | **[opencode-for-celular](https://github.com/Ryanabcraft/opencode-for-celular)** <br>`Shell` | OpenCode rodando nativamente no Android/Termux (arm64), instalado com um comando. |
-| **[Discord_auto_quest](https://github.com/Ryanabcraft/Discord_auto_quest)** <br>`Python` | Bot open source que automatiza as quests do Discord. |
 
 ## 🧰 Stack
 
