@@ -45,7 +45,6 @@
 
 <img width="700" alt="Resumo do perfil: commits, PRs, issues e estrelas" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanabcraft&theme=midnight_purple" />
 
-<img height="170" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanabcraft&theme=midnight_purple" />
 <img height="170" alt="Commits por hora do dia" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryanabcraft&utcOffset=-3&theme=midnight_purple" />
 
 <br />
