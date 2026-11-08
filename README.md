@@ -77,6 +77,4 @@ Framework de UI para scripts Roblox, distribuído como um único arquivo Luau ca
 
 <sub><b>Construindo em público desde 2025.</b> · <a href="https://github.com/Ryanabcraft?tab=repositories">Todos os repositórios</a></sub>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,55:3B1177,100:090A10&section=footer" />
-
 </div>
