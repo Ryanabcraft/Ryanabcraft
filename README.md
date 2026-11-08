@@ -4,10 +4,9 @@
 
 ### Olá, eu sou o Ryan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Dev+tools+%26+agentes+de+IA;Axiom+UI+Engine+%E2%80%94+open+source;Lua%2FLuau+%C2%B7+TypeScript+%C2%B7+Python" alt="Dev tools, agentes de IA, Axiom UI Engine, Lua/Luau · TypeScript · Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Dev+tools+%26+agentes+de+IA;Automa%C3%A7%C3%A3o+%C2%B7+MCP+%C2%B7+integra%C3%A7%C3%B5es;Lua%2FLuau+%C2%B7+TypeScript+%C2%B7+Python" alt="Dev tools, agentes de IA, automação, MCP, integrações, Lua/Luau · TypeScript · Python" />
 
 [![GitHub](https://img.shields.io/badge/Ryanabcraft-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanabcraft)
-[![Axiom UI](https://img.shields.io/badge/Axiom%20UI-7C3AED?style=for-the-badge&logo=roblox&logoColor=white)](https://axiom-ui-engine.vercel.app/)
 [![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-65E6A7?style=for-the-badge&logo=git&logoColor=090A10)](https://github.com/Ryanabcraft?tab=repositories)
 ![Visitas](https://komarev.com/ghpvc/?username=Ryanabcraft&color=7C3AED&style=for-the-badge&label=visitas)
 
@@ -15,28 +14,13 @@
 
 ## 💫 Sobre mim
 
-- 🔭 Construindo o **[Axiom UI Engine](https://github.com/Ryanabcraft/AxiomUI)** — framework de UI para scripts Roblox, MIT, com documentação, releases e servidor MCP.
 - 🧠 Explorando **agentes de IA** na prática: pontes entre modelos e ferramentas reais (`qoder-claude`, `human-code-mcp`, `zeroreal`).
+- 🧩 Também faço **UI e automação para Roblox** em Lua/Luau (`AxiomUI`, `PastaUI`, `afk-ryanab`).
 - 🛠️ Escrevo em **Lua/Luau, TypeScript, Python e Go**, com foco em UI, tooling e DevEx.
 - ✍️ Gosto do lado chato e decisivo: instalação em uma linha, build reproduzível, API documentada, release publicada.
 - 🌎 Brasil.
 
-## 🚀 Em destaque
-
-### [Axiom UI Engine](https://github.com/Ryanabcraft/AxiomUI) · `Lua` · MIT
-
-[![Axiom UI Engine](assets/axiom-ui.png)](https://axiom-ui-engine.vercel.app/)
-
-Framework de UI para scripts Roblox, distribuído como um único arquivo Luau carregado por `loadstring`. Window manager com drag e resize, modos Desktop/Tablet/Mobile, sidebar com scroll, layouts em colunas, temas semânticos e perfis de configuração persistidos.
-
-- **8 componentes** — button, toggle, slider, dropdown, input, keybind, color picker e card, com handles `Get` / `Set` / `SetVisible` / `Destroy` / `Changed`
-- **247 ícones** Lucide validados, mais 51 aliases normalizados (`MapPin`, `map-pin` e `map_pin` são o mesmo asset)
-- **1 arquivo, 111 KB** — build em Python que reúne `Core`, `Components`, `Services` e `Themes`
-- **Documentação de verdade** — site estático, referência de API, design system e um servidor MCP que entrega os docs para Claude Desktop, Cursor e OpenCode
-
-<sub>[Site](https://axiom-ui-engine.vercel.app/) · [API](https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/API.md) · [Ícones](https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/ICONS.md) · [Design system](https://github.com/Ryanabcraft/AxiomUI/blob/main/Documentation/DESIGN_SYSTEM.md) · [Releases](https://github.com/Ryanabcraft/AxiomUI/releases)</sub>
-
-## 📦 Outros projetos
+## 📦 Projetos
 
 | Projeto | O que faz |
 | --- | --- |
@@ -47,6 +31,7 @@ Framework de UI para scripts Roblox, distribuído como um único arquivo Luau ca
 | **[deepseek-harness-pc](https://github.com/Ryanabcraft/deepseek-harness-pc)** <br>`Go` | App nativo para Windows do DeepSeek Harness: janela WebView2, ícone próprio e instalador de uma linha. |
 | **[opencode-for-celular](https://github.com/Ryanabcraft/opencode-for-celular)** <br>`Shell` | OpenCode rodando nativamente no Android/Termux (arm64), instalado com um comando. |
 | **[Discord_auto_quest](https://github.com/Ryanabcraft/Discord_auto_quest)** <br>`Python` | Bot open source que automatiza as quests do Discord. |
+| **[AxiomUI](https://github.com/Ryanabcraft/AxiomUI)** <br>`Lua` | Framework de UI para scripts Roblox (MIT): window manager, 8 componentes com estado, 247 ícones Lucide e config persistida. Um arquivo, 111 KB. |
 
 ## 🧰 Stack
 
